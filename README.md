@@ -36,7 +36,3 @@ We welcome contributions from the community!
 ## License
 
 BIQ-Manager is released under the [MIT License](LICENSE).
-
-## Contact
-
-If you have any questions, suggestions, or feedback, please feel free to contact us at [email@example.com](mailto:email@example.com).
